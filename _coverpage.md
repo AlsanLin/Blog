@@ -1,9 +1,11 @@
+# 👋 Hi, I'm Liangliang Lin
 
-<!-- _coverpage.md -->
+### Senior Android & Flutter Engineer | 14+ Years | Remote-Ready
 
-# 💪 L3's Blog 
+[📧 Email](mailto:454092825@qq.com) | [💼 LinkedIn](https://linkedin.com/in/yourusername) | [🐙 GitHub](https://github.com/alsanlin)
 
-![working](./img/e16c81825d714c8081f168377b2e02be.gif)
+---
 
+### 我是林亮亮 | 14年移动端开发 | 科大讯飞 | 寻找远程机会
 
-[开始使用 Let Go](/README.md)
+[开始浏览 Let's Go](/README.md)
