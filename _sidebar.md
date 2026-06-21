@@ -8,13 +8,7 @@
   * [编译问题 Compile](/Android/编译问题.md)
   * [签名问题 Tips](/Android/Android签名无法查看MD5.md)
   * [Launcher 源码](/Android/Launcher源码分析.md)
-  * 面试系列
-    - [面试总览](/Android/面试/README.md)
-    - [协程/Flow/泛型](/Android/面试/Kotlin协程Flow泛型面试题.md)
-    - [Jetpack Compose](/Android/面试/Compose面试题.md)
-    - [TensorFlow Lite](/Android/面试/TFLite面试题.md)
-    - [Kotlin Multiplatform](/Android/面试/KMP面试题.md)
-    - [Clean Architecture](/Android/面试/CleanArchitecture面试题.md)
+  * [面试系列](/Android/面试/README.md)
 * 🐦 Flutter 相关
   * [快速开始 Quick Start](/Flutter/环境搭建.md)
   * [国际化 i18n](/Flutter/Flutter国际化.md)
