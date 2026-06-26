@@ -1,8 +1,3 @@
-# Jetpack Compose 面试题
-
-> Compose 是 Android UI 的未来趋势，面试重点在于声明式思维和重组机制的理解深度。
-
----
 
 ### 1. Compose 的 Recomposition 和传统 View 的 invalidate/requestLayout 有什么本质区别？
 

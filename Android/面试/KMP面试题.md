@@ -1,8 +1,3 @@
-# Kotlin Multiplatform (KMP) 面试题
-
-> KMP 是 Kotlin 生态的差异化方向。面试重点在于理解它的边界——什么能共享，什么不能。
-
----
 
 ### 1. KMP 和 Flutter/React Native 的本质区别是什么？
 

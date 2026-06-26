@@ -1,8 +1,3 @@
-# Clean Architecture 面试题
-
-> Google 官方的 Android 架构指南本质上就是 Clean Architecture 的落地版。面试中重点考察分层意识和依赖方向。
-
----
 
 ### 1. 为什么 Domain 层不能依赖 Android Framework？举个例子说明。
 
